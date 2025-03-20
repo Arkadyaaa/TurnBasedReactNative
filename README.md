@@ -1,4 +1,4 @@
-# TurnBasedReactNative
+# Turn-Based Game (React Native)
 Turn Based React Native Game. All image assets are taken from Fear and Hunger 2: Termina
 
 # Screenshots
@@ -25,7 +25,7 @@ End Screen allows the user to go back to any part of the game. <br>
 
 
 ### Unimplemented Features
-Due to time constraints, I was not able to implement every feature I wanted on this game. 
+The current build has all the base features needed for the game, it is a fully working experience with multiple enemies and a boss fight. However due to time constraints, I was not able to implement every feature I wanted for this game. 
 - Currently only Marcoh is balanced, the 2 other characters are not play tested enough to ensure that they are balanced, I am not sure if you can finish the game with them.
 - The game has no background music or sound effects.
 - Battles have no animations.
